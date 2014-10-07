@@ -12,5 +12,7 @@ Documents I need to read through.
  - [ ] **Quality and Efficiency in Kernel Density Estimates for Large Data** - 12 pgs [kernel density paralell.pdf](https://github.com/lossyrob/toread/raw/master/kernel%20density%20paralell.pdf)
  - [x] **Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing** - 14 pgs [nsdi_spark.pdf](https://github.com/lossyrob/toread/raw/master/nsdi_spark.pdf)
  - [ ] **Scalable Component Abstractions (by Martin Odersky)** - 18 pgs [ScalableComponent.pdf](https://github.com/lossyrob/toread/raw/master/ScalableComponent.pdf)
- - [ ] **Compiling Generics Trhough User-Directed Type Specialization** - 6 pgs [scala-spec.pdf](https://github.com/lossyrob/toread/raw/master/scala-spec.pdf)
+ - [ ] **Compiling Generics Through User-Directed Type Specialization** - 6 pgs [scala-spec.pdf](https://github.com/lossyrob/toread/raw/master/scala-spec.pdf)
  - [ ] **Introduction to Category Theory for Functional Programming (slides)** - 43 pgs [slides about category theory.pdf](https://github.com/lossyrob/toread/raw/master/slides%20about%20category%20theory.pdf)
+
+ - [ ] **Proof of Godel's incompleteness theorem** - 10 pgs [GodelIncompletenessTheoremProof.pdf](https://github.com/lossyrob/toread/raw/master/GodelIncompletenessTheoremProof.pdf)
